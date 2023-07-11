@@ -199,6 +199,30 @@
 }
 
 
+.footer{
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.931);
+    margin-top: 90px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding-top: 120px;
+}
+.footer-text{
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.sp{
+    color: #E55473;
+}
+
+.footer-descrip{
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+
 
 
 
