@@ -195,15 +195,16 @@
     height: 300px;
     width: auto;
     margin-left: 210px;
-    margin-right: auto;
+    margin-right: 218px;
     justify-content: center;
     text-align: center;
     margin-top: -60px;
     padding-top: 170px;
     background-image: url("./images/rectangle9.png");
-    background-position: cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    padding-right: 230px ;
+    padding-right: 50px ;
+    border-radius: 7px 7px 7px 7px ;
 }
 
 .latest-title{
