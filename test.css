@@ -1,4 +1,4 @@
-
+/* initialize marzin Zero */
 *{
     margin: 0px;
 }
@@ -16,6 +16,7 @@
     width: 500px;
     margin-left: 150px;
 }
+
 .banner-title{
     font-size: 60px;
 }
@@ -42,13 +43,12 @@
 
 .banner-pic{
     margin-right: 350px;
-    padding-top: 105px;
+    padding-top: 103px;
 }
 
 .banner-image1{
     height: 600px;
 }
-
 
 .feature-section{
     height: 450px;
@@ -80,6 +80,7 @@
 .box1{
     background-color:#a721621a;
 }
+
 .box{
     border-radius: 300px 300px 0px 0px ;
     height: 280px;
@@ -118,8 +119,11 @@
 .link{
     text-align: center;
     margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+.link:hover{
+    color: blue;
+}
 
 .bonus-section{
     background-color: #27272718 ;
@@ -137,7 +141,6 @@
     text-align: center;
 }
 
-
 .Hot-deal{
     background-color: hsla(0, 74%, 61%, 0.074);    margin-top: 23px;
     height: 500px;
@@ -146,7 +149,6 @@
     text-align: center;
     padding-top: 100px;
 }
-
 
 .deal-container{
     display: flex;
@@ -168,7 +170,6 @@
     padding-right: 230px;
     margin-bottom: 330px;
 }
-
 
 .instagram-session{
     margin-top: -160px;
@@ -199,16 +200,14 @@
     text-align: center;
     margin-top: -60px;
     padding-top: 170px;
-    /* padding-top: 20px; */
     background-image: url("./images/rectangle9.png");
     background-position: cover;
     background-repeat: no-repeat;
-    /* border-radius: -20px; */
     padding-right: 230px ;
 }
 
 .latest-title{
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 10px;
 }
 
@@ -219,21 +218,25 @@
 
 .get-input{
     height: 32px;
-    width: 350px;
+    width: 370px;
     border: none;
     border-radius: 5px;
 }
 
+.get-input::placeholder{
+    padding-left: 15px ;
+}
 
 .footer-section{
     height: 200px;
     background-color: rgba(0, 0, 0, 0.931);
     margin-top: 90px;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     justify-content: center;
     padding-top: 120px;
 }
+
 .foot-text{
     font-size: 25px;
     padding-bottom: 10px;
@@ -247,10 +250,3 @@
     padding-top: 10px;
     font-size: 15px;
 }
-
-
-
-
-
-
-
