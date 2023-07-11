@@ -164,6 +164,40 @@
     margin: 50px 10px 10px 2px;
 }
 
+.latest-deal{
+    height: 300px;
+    width: auto;
+    margin-left: 210px;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: -60px;
+    padding-top: 170px;
+    /* padding-top: 20px; */
+    background-image: url(./images/Rectangle\ 9.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    /* border-radius: -20px; */
+    padding-right: 230px ;
+}
+
+.latest-title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.latest-description{
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+.get-input{
+    height: 27px;
+    width: 320px;
+    border: none;
+    border-radius: 5px;
+}
+
 
 
 
