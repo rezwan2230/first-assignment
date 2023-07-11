@@ -28,7 +28,7 @@
 .btn{
     background-color:#E55473 ;
     margin-top: 20px;
-    padding: 8px 12px 8px 12px;
+    padding: 10px 13px 10px 13px;
     border: none;
     border-radius: 4px;
     color: white;
@@ -66,6 +66,12 @@
     text-align: center;
     padding-left: 200px;
     padding-right: 200px;
+}
+
+.link{
+    color: black;
+    font-weight: 700;
+    margin-top: 20px;
 }
 
 .box1{
@@ -192,8 +198,8 @@
 }
 
 .get-input{
-    height: 27px;
-    width: 320px;
+    height: 32px;
+    width: 350px;
     border: none;
     border-radius: 5px;
 }
@@ -208,7 +214,7 @@
     justify-content: center;
     padding-top: 120px;
 }
-.footer-text{
+.foot-text{
     font-size: 25px;
     padding-bottom: 10px;
 }
