@@ -149,8 +149,8 @@
 
 .instagram-session{
     margin-top: -200px;
-    margin-left: 500px;
-    margin-right: 500px;
+    /* margin-left: 500px;
+    margin-right: 500px; */
     padding-bottom: 200px;
 }
 
@@ -161,10 +161,14 @@
 .insta-container{
     display: flex;
     justify-content: space-around;
+    /* padding: 2100px; */
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .insta-box{
-    padding: 65px 40px 0px 65px ;
+    /* padding: 65px 40px 0px 65px ; */
+    margin: 50px 10px 10px 2px;
 }
 
 
